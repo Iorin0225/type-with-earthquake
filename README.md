@@ -9,6 +9,8 @@ This extention shake input forms when you input some texts on web site.
 
 ## How to install?
 
+This is not public on Google Extention store yet, so you need to follow these steps.
+
 1. Clone this repo.
 
 ```
